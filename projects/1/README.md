@@ -14,9 +14,9 @@ Elementary Logic Gates
 - [ ] And16
 - [ ] Or16
 - [ ] Mux16
-- [ ] Or8Way
 
 Multi-way variants
+- [ ] Or8Way
 - [ ] Mux4Way16
 - [ ] Mux8Way16
 - [ ] DMux4Way
