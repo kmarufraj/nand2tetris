@@ -10,7 +10,7 @@ Elementary Logic Gates
 - [x] Dmux
 
 16-bit variants
-- [ ] Not16
+- [x] Not16
 - [ ] And16
 - [ ] Or16
 - [ ] Mux16
