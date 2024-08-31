@@ -11,7 +11,7 @@ Elementary Logic Gates
 
 16-bit variants
 - [x] Not16
-- [ ] And16
+- [x] And16
 - [ ] Or16
 - [ ] Mux16
 
