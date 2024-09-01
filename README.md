@@ -4,7 +4,7 @@ Building a computer from scratch using NAND GATES
 Lets Go!
 
 
-- [ ] Project-1
+- [x] Project-1
 - [ ] Project-2
 - [ ] Project-3
 - [ ] Project-4
