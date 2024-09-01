@@ -1,6 +1,6 @@
 Goal: To build following gates:
 
-- [ ] HAlfAdder
+- [x] HalfAdder
 - [ ] FullAdder
 - [ ] Add16
 - [ ] Inc16
