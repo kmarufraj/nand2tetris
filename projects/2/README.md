@@ -4,4 +4,4 @@ Goal: To build following gates:
 - [x] FullAdder
 - [x] Add16
 - [x] Inc16
-- [ ] ALU
+- [x] ALU
