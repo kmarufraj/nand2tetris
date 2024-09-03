@@ -1,6 +1,6 @@
 Goal: To build following chips:
 
-- [ ] Bit
+- [x] Bit
 - [ ] PC
 - [ ] RAM64
 - [ ] RAM8
