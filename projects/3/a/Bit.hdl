@@ -13,5 +13,8 @@ CHIP Bit {
     OUT out;
 
     PARTS:
-    //// Replace this comment with your code.
+    DFF(in= z1, out= z2);
+    Mux(a=z2, b=in, sel=load, out=z1);
+    Not(in=z2, out=z3);
+    Not(in=z3, out=out);
 }
