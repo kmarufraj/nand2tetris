@@ -6,5 +6,5 @@ Goal: To build following chips:
 - [x] RAM8
 - [ ] RAM16K
 - [ ] RAM4K
-- [ ] RAM512
+- [x] RAM512
 - [x] Register
