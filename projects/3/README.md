@@ -7,4 +7,4 @@ Goal: To build following chips:
 - [x] RAM512
 - [x] RAM4K
 - [x] RAM16K
-- [ ] PC
+- [x] PC
