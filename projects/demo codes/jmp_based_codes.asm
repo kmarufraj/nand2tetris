@@ -1,8 +1,8 @@
 // Program: Signum.asm
 // Computes: if R0>0
-//                        R1=1
-//                     else
-//                        R1=0
+//              R1=1
+//           else
+//              R1=0
 
 
 @RO
