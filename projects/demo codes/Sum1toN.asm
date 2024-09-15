@@ -1,6 +1,6 @@
 // Program: Sum1toN.asm
-// Compute Ram[1] = 1+2+ ... +n
-// Usage: put a number (n) in Ram[0]
+// Compute RAM[1] = 1+2+ ... +n
+// Usage: put a number (n) in RAM[0]
 
    @R0
    D=M
