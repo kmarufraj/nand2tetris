@@ -39,4 +39,4 @@
 
 (END)
    @END  // program's end
-   0;JMP
+   0;JMP // infinite LOOP
