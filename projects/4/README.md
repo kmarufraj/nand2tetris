@@ -1,4 +1,4 @@
 Goal: To build following chips:
 
-- [ ] Fill
-- [ ] Mult
+- [x] Fill
+- [x] Mult
