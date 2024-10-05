@@ -1,5 +1,5 @@
 ## Introduction
-Building a computer from scratch using NAND GATES
+Building a computer from scratch using NAND GATE
 
 Lets Go!
 
