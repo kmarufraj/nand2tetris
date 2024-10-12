@@ -1,4 +1,5 @@
 Given : NAND GATE
+
 Goal: To build following gates:
 
 Elementary Logic Gates
