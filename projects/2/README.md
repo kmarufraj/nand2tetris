@@ -1,4 +1,4 @@
-Goal: To build following gates:
+Goal: To build following chips:
 
 - [x] HalfAdder
 - [x] FullAdder
