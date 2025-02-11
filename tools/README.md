@@ -1,11 +1,11 @@
 This contains:
-        -  Assembler
-        -  Bin
-        -  Built in Chips
-        -  Built in VMCode
-        -  CPU Emulator
-        -  Hardware Simulator
-        -  Jack Compiler
-        -  OS
-        -  Text Comparer
-        -  VM Emulator 
+        - [ ] Assembler
+        - [ ] Bin
+        - [ ] Built in Chips
+        - [ ] Built in VMCode
+        - [ ] CPU Emulator
+        - [ ] Hardware Simulator
+        - [ ] Jack Compiler
+        - [ ] OS
+        - [ ] Text Comparer
+        - [ ] VM Emulator 
